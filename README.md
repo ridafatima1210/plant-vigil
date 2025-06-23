@@ -65,33 +65,6 @@ The CNN model has been trained on the publicly available PlantVillage dataset, w
 
 Once trained, the AI model is capable of performing real-time inference through the web application, classifying user-uploaded images and providing accurate disease predictions. This approach significantly reduces manual inspection effort and provides a scalable solution for early disease detection in agriculture.
 
-## Deployment
-
-This project has been deployed and is accessible online:
-[Live Web Application](https://plant-disease-detection-ai.herokuapp.com/)
-
-## Blog Article
-
-An in-depth explanation of the model, training process, and dataset is available on Medium:
-[Plant Disease Detection using CNN & PyTorch – Blog Post](https://medium.com/analytics-vidhya/plant-disease-detection-using-convolutional-neural-networks-and-pytorch-87c00c54c88f)
-
-## Web Application Interface
-
-Main Page
-![Main Page](demo_images/1.png)
-
-AI Engine
-![AI Engine](demo_images/2.png)
-
-Results Page
-![Results Page](demo_images/3.png)
-
-Fertilizer Suggestions
-![Fertilizer Store](demo_images/4.JPG)
-
-Contact Page
-![Contact Page](demo_images/5.png)
-
 ## Contributing
 
 This repository is open for contributions. Interested developers and researchers are encouraged to contribute in the following ways:
@@ -111,10 +84,6 @@ Contribution Guidelines:
 
 Detailed guidance on creating pull requests is available here:
 [https://opensource.com/article/19/7/create-pull-request-github](https://opensource.com/article/19/7/create-pull-request-github)
-
-## License
-
-This project is licensed under the MIT License. Please see the LICENSE file for more details.
 
 ## Acknowledgments
 
